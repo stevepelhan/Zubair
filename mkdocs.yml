@@ -1,0 +1,18 @@
+site_name: Basalt
+site_url: https://stevepelhan.gitlab.io/
+site_dir: public
+docs_dir: ./Basalt
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep orange
+
+plugins:
+  - search
+  - roamlinks
+
+markdown_extensions:
+    - def_list
+    - pymdownx.tasklist:
+        custom_checkbox: true
