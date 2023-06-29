@@ -1,12 +1,12 @@
-site_name: Basalt
+site_name: Zubair
 site_url: https://stevepelhan.gitlab.io/
 site_dir: public
-docs_dir: ./Basalt
+docs_dir: ./Zubair
 theme:
   name: material
   palette:
     scheme: slate
-    primary: deep orange
+    primary: deep purple
 
 plugins:
   - search
