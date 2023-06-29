@@ -1,7 +1,4 @@
-## Magic Items
-| Item | Description | Requires Attunement | Currently Equipped |
-| ---- | ----------- | ------------------- | ----------------- |
-|      |             |                     |                   |
+![[Mink.png]]
 
 ## Open Quests
 - [ ] Learn more about [[Matt's Dwarf]]'s weird bauble
@@ -17,7 +14,9 @@
 ## History
 
 
+## Magic Items
+| Item | Description | Requires Attunement | Currently Equipped |
+| ---- | ----------- | ------------------- | ----------------- |
+|      |             |                     |                   |
+
 ## Appearance
-![[Mink.png]]
-
-
