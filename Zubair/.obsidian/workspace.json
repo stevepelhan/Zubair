@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The New Guys.md",
+                "file": "People/The New Guys/Mink.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The New Guys.md",
+                "file": "People/The New Guys/Mink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The New Guys.md",
+                "file": "People/The New Guys/Mink.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The New Guys.md"
+                "file": "People/The New Guys/Mink.md"
               }
             }
           },
@@ -158,8 +158,29 @@
   },
   "active": "735bee1c2f2f75bd",
   "lastOpenFiles": [
+    "Factions/Mink's gang.md",
+    "Templates/Place.md",
     "index.md",
-    "The New Guys.md",
+    "Mink's Artificer.md",
+    "Places/Empyrean/Mink's Hideout.md",
+    "Places/Empyrean/Old Town.md",
+    "Places/Empyrean/Empyrean.md",
+    "Places/Empyrean",
+    "Places/Empyrean/Mid Town.md",
+    "Images/Empyrean.jpg",
+    "Places/Talare Bay.md",
+    "Places/Rowmore Run.md",
+    "Places/Rivers Republic.md",
+    "Places/Zubair.md",
+    "People/The New Guys/The New Guys.md",
+    "People/The New Guys/Daniel's Warlock.md",
+    "People/The New Guys/Mink.md",
+    "People/The New Guys/Nate's Warforged.md",
+    "People/The New Guys/Matt's Dwarf.md",
+    "People/The New Guys/Rosjen.md",
+    "People/The New Guys",
+    "Images/Mink.png",
+    "Templates/My Character.md",
     "Images/Zubair.png",
     "Zubair/In Game Notes",
     "Zubair/Images/Zubair.png",
@@ -172,29 +193,10 @@
     "Zubair/Templates/Place.md",
     "Zubair/Templates/Person.md",
     "Zubair/Templates/PC.md",
-    "Zubair/Templates/Notes.md",
-    "Zubair/Templates/My Character.md",
-    "Zubair/Templates/Item.md",
-    "Zubair/Templates/Faction.md",
     "Zubair/Templates",
     "Zubair/Sessions",
     "Zubair/Religion",
-    "Zubair/Places/Zubair.md",
-    "Zubair/Places/Wischyra.md",
-    "Zubair/Places/Verdemar.md",
-    "Zubair/Places/The Mirror Sands.md",
-    "Zubair/Places/Rivers Republic.md",
-    "Zubair/Places/Quimoira.md",
-    "Zubair/Places/Peril Reef.md",
-    "Zubair/Places/Ore Forge.md",
-    "Zubair/Places/Mount Desolis.md",
-    "Zubair/Places/Minassos.md",
-    "Zubair/Places/Lordlands.md",
-    "Zubair/Places/Gurbesan.md",
-    "Zubair/Places/Farridge Mountains.md",
     "Zubair/Places",
-    "Zubair/People",
-    "Zubair/Items",
-    "Zubair"
+    "Zubair/People"
   ]
 }
