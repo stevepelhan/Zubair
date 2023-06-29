@@ -1,0 +1,14 @@
+| Magic Item | Description |
+| ---------- | ----------- |
+|            |             |
+
+## Open Quests
+- [ ] 
+
+## Events
+- [x] Freed from jail by [[Mink]]
+
+## Description
+Criminal Lightfoot Halfling Ranger. Orphaned and made to find their own way in the world. Joined the military and left. Jailed for a crime he didn't commit. Broken out of jail by [[Mink]].
+
+## Backstory
