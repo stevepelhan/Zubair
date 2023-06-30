@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/The New Guys/Mink.md",
+                "file": "People/Daimyo Isles/Tsukushi Nobunaga.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/The New Guys/Mink.md",
+                "file": "People/Daimyo Isles/Tsukushi Nobunaga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/The New Guys/Mink.md",
+                "file": "People/Daimyo Isles/Tsukushi Nobunaga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/The New Guys/Mink.md"
+                "file": "People/Daimyo Isles/Tsukushi Nobunaga.md"
               }
             }
           },
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,46 +155,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "735bee1c2f2f75bd",
+  "active": "7fe58a88a6a7b9f7",
   "lastOpenFiles": [
-    "People/The New Guys/The New Guys.md",
-    "People/The New Guys/Mink.md",
-    "Images/Mink.png",
-    "Factions/Mink's gang.md",
-    "Templates/Place.md",
-    "index.md",
-    "Mink's Artificer.md",
+    "People/Empyrean",
+    "People/Daimyo Isles",
+    "Factions/Night Water.md",
+    "People/Daimyo Isles/Tsukushi Nobunaga.md",
     "Places/Empyrean/Mink's Hideout.md",
+    "People/Empyrean/Old Town Restoration Committee",
+    "Factions/Old Town Restoration Committee.md",
     "Places/Empyrean/Old Town.md",
-    "Places/Empyrean/Empyrean.md",
-    "Places/Empyrean",
+    "People/Empyrean/Old Town Restoration Committee/Baptiste.md",
+    "People/Empyrean/Old Town Restoration Committee/Soffit.md",
+    "People/Empyrean/Old Town Restoration Committee/Taljeen.md",
+    "People/The New Guys/Mink.md",
+    "People/The New Guys/Daniel's Warlock.md",
+    "Places/Daimyo Isles.md",
+    "People/The New Guys/Rosjen.md",
+    "index.md",
+    "Places/Zubair.md",
+    "Places/Verdemar.md",
     "Places/Empyrean/Mid Town.md",
+    "Places/Empyrean/Empyrean.md",
+    "People/The New Guys/The New Guys.md",
+    "Images/Mink.png",
+    "Templates/Place.md",
+    "Places/Empyrean",
     "Images/Empyrean.jpg",
     "Places/Talare Bay.md",
     "Places/Rowmore Run.md",
     "Places/Rivers Republic.md",
-    "Places/Zubair.md",
-    "People/The New Guys/Daniel's Warlock.md",
     "People/The New Guys/Nate's Warforged.md",
     "People/The New Guys/Matt's Dwarf.md",
-    "People/The New Guys/Rosjen.md",
     "People/The New Guys",
     "Templates/My Character.md",
     "Images/Zubair.png",
     "Zubair/In Game Notes",
     "Zubair/Images/Zubair.png",
     "Zubair/Images",
-    "Zubair/Factions/Four Dwarf Kingdoms.md",
-    "Zubair/Factions/Azers.md",
     "Zubair/Factions",
-    "Zubair/index.md",
-    "Zubair/Templates/Town.md",
-    "Zubair/Templates/Place.md",
-    "Zubair/Templates/Person.md",
     "Zubair/Templates",
     "Zubair/Sessions",
-    "Zubair/Religion",
-    "Zubair/Places",
-    "Zubair/People"
+    "Zubair/Religion"
   ]
 }

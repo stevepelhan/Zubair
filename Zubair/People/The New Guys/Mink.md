@@ -6,7 +6,7 @@
 - [ ] Keep an eye on [[Daniel's Warlock]]
 
 ## Completed Quests
-- [x]  Break [[Rosjen]] out of jail
+- [x]  Break [[Rosjen]] out of [[Night Water|Brown Short]]'s jail
 
 ## Intro
 

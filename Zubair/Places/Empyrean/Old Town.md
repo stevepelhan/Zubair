@@ -4,7 +4,7 @@ The first area settled in [[Empyrean]] long ago. Mostly remains natural waterway
 ## Notable People
 | Person | Description |
 | ------ | ----------- |
-|  [[Mink's gang]]      |             |
+|  [[Old Town Restoration Committee]]      |             |
 
 ## Notes
 * 

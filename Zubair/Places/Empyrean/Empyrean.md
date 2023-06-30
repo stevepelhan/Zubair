@@ -21,5 +21,5 @@ The town grew haphazardly and a survival of the fittest form of architecture for
 
 ## Notes
 * [[Mink]] grew up here
-* [[Mink's gang]] still operates here
+* [[Old Town Restoration Committee]] still operates here
 * [[Mink]] met [[Rosjen]] here and freed him from jail

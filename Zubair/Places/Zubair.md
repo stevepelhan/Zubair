@@ -18,7 +18,7 @@
 | [[Mount Desolis]]      |                                           |
 | [[The Mirror Sands]]   |                                           |
 | [[Peril Reef]]         |                                           |
-| [[Daimyo Aisles]]      |                                           |
+| [[Daimyo Isles]]      |                                           |
 
 
 ## Notes

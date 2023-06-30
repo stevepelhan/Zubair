@@ -9,6 +9,6 @@
 
 
 ## Description
-Warforged Abjuration Wizard? Artificer? Always making cool trinkets. Reminds [[Mink]] of [[Mink's Artificer]]. Probably worth making a friend.
+Warforged Abjuration Wizard? Artificer? Always making cool trinkets. Reminds [[Mink]] of [[Baptiste]]. Probably worth making a friend.
 
 ## Backstory

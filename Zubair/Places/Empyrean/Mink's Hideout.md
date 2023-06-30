@@ -1,14 +1,14 @@
 ## Description
-Hideout that [[Mink's gang]] uses. Located in [[Empyrean]]'s [[Old Town]].
+Hideout that [[Old Town Restoration Committee]] uses. Located in [[Empyrean]]'s [[Old Town]].
 
 ## Notable People
 | Person               | Description |
 | -------------------- | ----------- |
 | [[Mink]]             |             |
 | [[Rosjen]]           |             |
-| [[Mink's Artificer]] |             |
-| [[Mink's Muscle]]    |             |
-| [[Mink's Rogue]]                     |             |
+| [[Baptiste]] |             |
+| [[Taljeen]]    |             |
+| [[Soffit]]                     |             |
 
 ## Notes
 * Totally awesome
