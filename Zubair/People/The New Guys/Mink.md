@@ -1,9 +1,9 @@
 ![[Mink.png]]
 
 ## Open Quests
-- [ ] Learn more about [[Matt's Dwarf]]'s weird bauble
-- [ ] Befriend [[Nate's Warforged]]
-- [ ] Keep an eye on [[Daniel's Warlock]]
+- [ ] Learn more about [[Brontus]]'s weird bauble
+- [ ] Befriend [[Sandy]]
+- [ ] Keep an eye on [[Shepard]]
 
 ## Completed Quests
 - [x]  Break [[Rosjen]] out of [[Night Water|Brown Short]]'s jail

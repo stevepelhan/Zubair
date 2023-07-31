@@ -9,6 +9,6 @@
 
 
 ## Description
-Warforged Abjuration Wizard? Artificer? Always making cool trinkets. Reminds [[Mink]] of [[Baptiste]]. Probably worth making a friend.
+Total upstanding guy. Always in control of himself and surely not haunted by his past...or a ghost. Quite literally a bear.
 
 ## Backstory

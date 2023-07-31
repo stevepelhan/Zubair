@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Daimyo Isles/Tsukushi Nobunaga.md",
+                "file": "People/Captain Klax's Ship/Stowaway.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Daimyo Isles/Tsukushi Nobunaga.md",
+                "file": "People/Captain Klax's Ship/Stowaway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Daimyo Isles/Tsukushi Nobunaga.md",
+                "file": "People/Captain Klax's Ship/Stowaway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Daimyo Isles/Tsukushi Nobunaga.md"
+                "file": "People/Captain Klax's Ship/Stowaway.md"
               }
             }
           },
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,45 +158,45 @@
   },
   "active": "7fe58a88a6a7b9f7",
   "lastOpenFiles": [
+    "Religion/Luminaires",
+    "People/Captain Klax's Ship/Stowaway.md",
+    "People/Captain Klax's Ship/Stowaway.md",
+    "index.md",
+    "Sessions/20230727 - Chapter 2.md",
+    "People/Captain Klax's Ship",
+    "Sessions/20230727 - Chapter 1.md",
+    "Religion/Luminaires/Luminaires.md",
+    "Religion/Luminaires/The Seer.md",
+    "People/Captain Klax's Ship/Captain Klax.md",
+    "Items/Honey Mead.md",
+    "Places/Wayward Channel.md",
+    "People/Captain Klax's Ship/Chef Sous.md",
+    "People/Captain Klax's Ship/Doc.md",
+    "People/Captain Klax's Ship/Brittany Four-Fingers.md",
+    "People/Captain Klax's Ship/Gnorr.md",
+    "People/Captain Klax's Ship/Salty Bill.md",
+    "People/Captain Klax's Ship/Amelia Hooks.md",
+    "Places/Captain Klax's Ship.md",
+    "People/Captain Klax's Ship/Rodrick.md",
+    "People/The New Guys/Sandy.md",
+    "People/The New Guys/Shepard.md",
+    "People/The New Guys/Brontus.md",
+    "People/The New Guys/Rosjen.md",
+    "People/Daimyo Isles/Tsukushi Nobunaga.md",
     "People/Empyrean",
     "People/Daimyo Isles",
     "Factions/Night Water.md",
-    "People/Daimyo Isles/Tsukushi Nobunaga.md",
     "Places/Empyrean/Mink's Hideout.md",
     "People/Empyrean/Old Town Restoration Committee",
-    "Factions/Old Town Restoration Committee.md",
-    "Places/Empyrean/Old Town.md",
-    "People/Empyrean/Old Town Restoration Committee/Baptiste.md",
-    "People/Empyrean/Old Town Restoration Committee/Soffit.md",
-    "People/Empyrean/Old Town Restoration Committee/Taljeen.md",
-    "People/The New Guys/Mink.md",
-    "People/The New Guys/Daniel's Warlock.md",
-    "Places/Daimyo Isles.md",
-    "People/The New Guys/Rosjen.md",
-    "index.md",
-    "Places/Zubair.md",
-    "Places/Verdemar.md",
-    "Places/Empyrean/Mid Town.md",
-    "Places/Empyrean/Empyrean.md",
-    "People/The New Guys/The New Guys.md",
     "Images/Mink.png",
-    "Templates/Place.md",
     "Places/Empyrean",
     "Images/Empyrean.jpg",
-    "Places/Talare Bay.md",
-    "Places/Rowmore Run.md",
-    "Places/Rivers Republic.md",
-    "People/The New Guys/Nate's Warforged.md",
-    "People/The New Guys/Matt's Dwarf.md",
     "People/The New Guys",
-    "Templates/My Character.md",
     "Images/Zubair.png",
     "Zubair/In Game Notes",
     "Zubair/Images/Zubair.png",
     "Zubair/Images",
     "Zubair/Factions",
-    "Zubair/Templates",
-    "Zubair/Sessions",
-    "Zubair/Religion"
+    "Zubair/Templates"
   ]
 }
