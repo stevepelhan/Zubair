@@ -2,182 +2,262 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://stevepelhan.gitlab.io/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Factions/Azers/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Factions/Four%20Dwarf%20Kingdoms/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Factions/Night%20Water/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Factions/Old%20Town%20Restoration%20Committee/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/Items/Honey%20Mead/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Captain%20Klax%27s%20Ship/Amelia%20Hooks/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Captain%20Klax%27s%20Ship/Brittany%20Four-Fingers/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Captain%20Klax%27s%20Ship/Captain%20Klax/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Captain%20Klax%27s%20Ship/Chef%20Sous/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Captain%20Klax%27s%20Ship/Doc/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Captain%20Klax%27s%20Ship/Gnorr/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Captain%20Klax%27s%20Ship/Rodrick/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Captain%20Klax%27s%20Ship/Salty%20Bill/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/Captain%20Klax%27s%20Ship/Stowaway/</loc>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/People/Daimyo%20Isles/Tsukushi%20Nobunaga/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/People/Empyrean/Old%20Town%20Restoration%20Committee/Baptiste/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/People/Empyrean/Old%20Town%20Restoration%20Committee/Soffit/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/People/Empyrean/Old%20Town%20Restoration%20Committee/Taljeen/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stevepelhan.gitlab.io/People/The%20New%20Guys/Daniel%27s%20Warlock/</loc>
-         <lastmod>2023-06-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/The%20New%20Guys/Matt%27s%20Dwarf/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <loc>https://stevepelhan.gitlab.io/People/The%20New%20Guys/Brontus/</loc>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/People/The%20New%20Guys/Mink/</loc>
-         <lastmod>2023-06-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stevepelhan.gitlab.io/People/The%20New%20Guys/Nate%27s%20Warforged/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/People/The%20New%20Guys/Rosjen/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/The%20New%20Guys/Sandy/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/People/The%20New%20Guys/Shepard/</loc>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/People/The%20New%20Guys/The%20New%20Guys/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Azilon/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/Places/Captain%20Klax%27s%20Ship/</loc>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Daimyo%20Isles/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Farridge%20Mountains/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Gurbesan/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Lordlands/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Minassos/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Mount%20Desolis/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Ore%20Forge/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Peril%20Reef/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Quimoira/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Rivers%20Republic/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Rowmore%20Run/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Talare%20Bay/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/The%20Mirror%20Sands/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Verdemar/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/Places/Wayward%20Channel/</loc>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Wischyra/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Zubair/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Empyrean/Empyrean/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Empyrean/Mid%20Town/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Empyrean/Mink%27s%20Hideout/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stevepelhan.gitlab.io/Places/Empyrean/Old%20Town/</loc>
-         <lastmod>2023-06-30</lastmod>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/Religion/Luminaires/Luminaires/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/Religion/Luminaires/The%20Seer/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/Sessions/20230727%20-%20Chapter%201/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stevepelhan.gitlab.io/Sessions/20230727%20-%20Chapter%202/</loc>
+         <lastmod>2023-07-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
