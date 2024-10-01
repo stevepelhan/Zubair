@@ -1,3 +1,9 @@
+---
+aliases:
+  - Shep
+---
+
+
 | Magic Item | Description |
 | ---------- | ----------- |
 |            |             |

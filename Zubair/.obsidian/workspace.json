@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "729c1e7d0f370452",
+        "id": "15c72631f40f9253",
         "type": "tabs",
         "children": [
           {
-            "id": "735bee1c2f2f75bd",
+            "id": "d7e0e3eaccc9eca3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Captain Klax's Ship/Stowaway.md",
+                "file": "Cold Opens/Azilon Rebellion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Captain Klax's Ship/Stowaway.md",
+                "file": "Cold Opens/Azilon Rebellion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Captain Klax's Ship/Stowaway.md",
+                "file": "Cold Opens/Azilon Rebellion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Captain Klax's Ship/Stowaway.md"
+                "file": "Cold Opens/Azilon Rebellion.md"
               }
             }
           },
@@ -156,47 +156,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7fe58a88a6a7b9f7",
+  "active": "d7e0e3eaccc9eca3",
   "lastOpenFiles": [
-    "Religion/Luminaires",
-    "People/Captain Klax's Ship/Stowaway.md",
-    "People/Captain Klax's Ship/Stowaway.md",
-    "index.md",
-    "Sessions/20230727 - Chapter 2.md",
-    "People/Captain Klax's Ship",
-    "Sessions/20230727 - Chapter 1.md",
-    "Religion/Luminaires/Luminaires.md",
-    "Religion/Luminaires/The Seer.md",
-    "People/Captain Klax's Ship/Captain Klax.md",
-    "Items/Honey Mead.md",
-    "Places/Wayward Channel.md",
-    "People/Captain Klax's Ship/Chef Sous.md",
-    "People/Captain Klax's Ship/Doc.md",
-    "People/Captain Klax's Ship/Brittany Four-Fingers.md",
-    "People/Captain Klax's Ship/Gnorr.md",
-    "People/Captain Klax's Ship/Salty Bill.md",
-    "People/Captain Klax's Ship/Amelia Hooks.md",
-    "Places/Captain Klax's Ship.md",
-    "People/Captain Klax's Ship/Rodrick.md",
-    "People/The New Guys/Sandy.md",
+    "Religion/The Abandoned Hearth.md",
+    "In Game Notes/Mink's Catch Phrase.md",
+    "Sessions/Chapter 8 - Rosaki.md",
+    "Places/Daimyo Isles/Rosaki",
+    "People/Daimyo Isles/Rosaki",
+    "Places/Daimyo Isles/Rosaki/The Docks.md",
+    "Places/Daimyo Isles/Rosaki/Rosaki Sewers.md",
+    "Places/Daimyo Isles/Rosaki/Derty Dogg.md",
+    "People/Daimyo Isles/Rosaki/William Wheatflower.md",
+    "People/Daimyo Isles/Rosaki/Dudo Diggle.md",
+    "Images/Dudo Diggle.jpg",
+    "Places/Daimyo Isles/Rosaki/Gallery of Guilds.md",
+    "Places/Daimyo Isles/Rosaki/Gates of Rosaki.md",
+    "Factions/Rosaki Guard.md",
+    "People/Daimyo Isles/Rosaki/Captain Frommen.md",
+    "Places/Daimyo Isles/Rosaki/Rosaki.md",
+    "Images/Rosaki.png",
+    "People/The New Guys/Mink.md",
+    "Items/Encapetured Audience.md",
+    "Sessions/Chapter 7.5 - The Story So Far.md",
+    "Sessions/Chapter 7 - The Gilded Gryphon.md",
+    "People/The Gilded Gryphon",
+    "Items/Golden Coin.md",
+    "People/The Gilded Gryphon/Hiroshi the Blade.md",
+    "People/The Gilded Gryphon/Gerard Oilring.md",
+    "Places/Daimyo Isles/Octavius.md",
     "People/The New Guys/Shepard.md",
-    "People/The New Guys/Brontus.md",
-    "People/The New Guys/Rosjen.md",
-    "People/Daimyo Isles/Tsukushi Nobunaga.md",
-    "People/Empyrean",
-    "People/Daimyo Isles",
-    "Factions/Night Water.md",
-    "Places/Empyrean/Mink's Hideout.md",
-    "People/Empyrean/Old Town Restoration Committee",
+    "Factions/The Squids.md",
+    "People/The Gilded Gryphon/Snagk.md",
+    "Places/Daimyo Isles/King Froggy Island.md",
+    "Cold Opens/Azilon Rebellion.md",
     "Images/Mink.png",
-    "Places/Empyrean",
-    "Images/Empyrean.jpg",
-    "People/The New Guys",
+    "Images/King Froggy Island.jpg",
+    "Places/Daimyo Isles",
+    "Places/Empyrean/Untitled",
+    "People/Daimyo Isles/Niwon",
+    "Sessions/Chapter 7",
     "Images/Zubair.png",
-    "Zubair/In Game Notes",
-    "Zubair/Images/Zubair.png",
-    "Zubair/Images",
-    "Zubair/Factions",
-    "Zubair/Templates"
+    "Religion/Luminaires",
+    "People/Captain Klax's Ship",
+    "People/Empyrean",
+    "Images/Empyrean.jpg",
+    "Zubair/Images/Zubair.png"
   ]
 }

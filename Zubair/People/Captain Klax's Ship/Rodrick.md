@@ -6,5 +6,5 @@ Crewmate on [[The New Guys]]' ship.
 
 ## Notes
 * One of [[Mink]]'s friends
-* Led a small group to unwrap [[Captain Klax]]'s body during [[20230727 - Chapter 1]]
-* Lost at sea during [[20230727 - Chapter 1]]
+* Led a small group to unwrap [[Captain Klax]]'s body during [[Chapter 1]]
+* Lost at sea during [[Chapter 1]]

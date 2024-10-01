@@ -3,7 +3,7 @@
 |            |             |
 
 ## Open Quests
-- [ ] 
+- [ ] Find 
 
 ## Events
 - [x] Freed from [[Night Water|Brown Short]]'s jail by [[Mink]]

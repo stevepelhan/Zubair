@@ -11,8 +11,9 @@ Pirate ship captained by [[Captain Klax]].
 | [[Brittany Four-Fingers]] |               |
 | [[Gnorr]]                 |               |
 | [[Doc]]                   | Ship's Doctor |
-| [[Chef Sous]]               |       Ship's cook        |
+| [[Chef Sous]]             | Ship's cook   |
 |                           |               |
 
 ## Notes
-* Lost at sea in [[20230727 - Chapter 1]]
+* Lost at sea in [[Chapter 1]]
+* Definitely has a real name but [[Mink]] can't remember it

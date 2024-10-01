@@ -5,6 +5,6 @@ Crewmate on [[The New Guys]]'s [[Captain Klax's Ship]]. Ship's doctor.
 
 
 ## Notes
-* Announced [[Captain Klax]]'s death during [[20230727 - Chapter 1]]
+* Announced [[Captain Klax]]'s death during [[Chapter 1]]
 * Very suspicious
-* Lost at sea during [[20230727 - Chapter 1]]
+* Lost at sea during [[Chapter 1]]
